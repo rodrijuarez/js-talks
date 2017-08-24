@@ -1,8 +1,8 @@
 <h1 align="center">
-    Learn Elm
+    JS Talks
 </h1>
 <p align="center">
-	<b>✨ List of talks related to Javascript by <a href="https://rodrigojuarez.xyz/">Rodrigo Juarez</a> ✨</b><br/>
+	<b>✨ List of talks related to Javascript created by <a href="https://rodrigojuarez.xyz/">Rodrigo Juarez</a> ✨</b><br/>
 	<b> Here you'll be able to find talks from the Javascript community, mostly related to creative coding</b>
 </p>
 
