@@ -11,6 +11,7 @@
 ## Contents
 
 - [Creative Talks](#creative-talks)
+- [React](#react)
 
 ---
 
@@ -21,3 +22,8 @@
 - [Hugh Kennedy - JavaScript and Interactive Installations](https://www.youtube.com/watch?v=RGAWWhleXMY)
 - [Zachary Johnson & Andrew Reitano:NESpectre: The Massively Multi-Haunted NES](https://www.youtube.com/watch?v=KSVYCV66sQQ)
 - [Solving Imaginary Scaling Issues](https://www.youtube.com/watch?v=OVKLMfe8AZw)
+
+
+## React
+
+- [Thinking in React by Adam Reynolds](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react)
