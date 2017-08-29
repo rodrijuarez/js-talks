@@ -17,3 +17,5 @@
 ## Creative Talks
 
 - [Mariko Kosaka & Suz Hinton: Can You Read Me? Creative JS to Make CS Fun | JSConf EU 2017](https://www.youtube.com/watch?v=6qd2RZsRNUE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=14)
+- [Ruth John: How To Be A Web A/V Artist | JSConf EU 2017](https://www.youtube.com/watch?v=Lby6fk5gC4k)
+- [Hugh Kennedy - JavaScript and Interactive Installations](https://www.youtube.com/watch?v=RGAWWhleXMY)
