@@ -12,6 +12,7 @@
 
 - [Creative Talks](#creative-talks)
 - [React](#react)
+- [Javascript](#javascript)
 
 ---
 
@@ -27,3 +28,7 @@
 ## React
 
 - [Thinking in React by Adam Reynolds](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react)
+
+## Javascript
+
+- [hilip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
